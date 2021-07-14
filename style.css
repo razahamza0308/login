@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+}
+
+.one {
+    height: 100vh;
+}
+
+@font-face {
+    font-family: lora;
+    src: url(font/static/Lora-MediumItalic.ttf);
+}
+
+#post_logout {
+    background-image: url(image/index\ back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,
+p {
+    font-family: "lora";
+}
+
+li {
+    list-style-type: none;
+}
